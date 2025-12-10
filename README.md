@@ -7,10 +7,10 @@ Shopping-centre is a project to build an online shopping-centre / marketplace wh
 
 
 ## 📦 Tech Stack  
-- React/ JavaScript / HTML / CSS  
+- React/ JavaScript / HTML / CSS.
 
 
-##📄License
+**##📄License**
 @Shaikhrafey
 
 
